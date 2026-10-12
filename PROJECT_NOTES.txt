@@ -1,0 +1,8 @@
+Before submitting:
+1. Run the install/run commands in README.md on your machine.
+2. Test POST, GET, PATCH, DELETE from http://127.0.0.1:8000/docs.
+3. Run python -m pytest -v.
+4. If you want sample records, run python seed_data.py while the API is stopped or from a second terminal.
+5. Push the project folder to your own GitHub repository and submit that repository URL.
+
+Only fictional sample records are included. You still need to create/push the GitHub repository yourself.
